@@ -1,0 +1,94 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+
+#IDE
+.idea
+.vscode
+
+#gitify
+_backup/
+
+#composer
+/vendor/
+
+#npm
+/node_modules/
+
+#react-build
+/public/assets/build
+/public/hot
+
+#System config
+.env
+
+#Junk files
+*.log
+
+#IDE
+.idea/
+.vscode/
+
+#Cache
+core/cache/*
+assets/components/phpthumbof/cache/*
+assets/exchfile/cache/*
+
+#Logs
+*.log
+log.txt
+
+#Backups
+*.sql
+*.sql.gz
+*.dump
+*.dump.sql
+sql_dump/
+core/backup
+
+#Apache config files
+# ht.access
+# .htaccess
+
+#Sub repository
+**/.sass-cache/
+**/.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
